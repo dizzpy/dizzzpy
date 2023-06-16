@@ -1,4 +1,15 @@
-<h2 align="center">Hi 🧑‍💻👋!<br>My Name is Yashohara and I'm an Undergraduate, a part time freelance Ui designer 👨‍💻✌️</h2>
+<h1 align="center">Hey Everyone, 🧑‍💻👋<br></h1>
+
+###
+
+<h2>About Me</h2>
+
+<p>Hey there! 👋 I'm <strong>Yashohara</strong>, an undergraduate and a part-time freelance UI designer. As a passionate tech enthusiast, I love exploring new technologies and sharing my knowledge with the community. I aim to bridge the gap between software and hardware to create innovative solutions. Feel free to check out my projects and let's learn and create amazing things together!</p>
+<br>
+
+
+
+
 
 ###
 
@@ -12,6 +23,8 @@
 <img align="right" height="150" src="https://i.gifer.com/HC1l.gif"  />
 
 ###
+
+<h3>Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -61,6 +74,8 @@
 
 ###
 
+<h3>Connect with me:</h3>
+
 <div align="left">
   <a href="https://t.me/MrAnuwa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
@@ -82,15 +97,12 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dizzpy/dizzpy/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
+  <h4>Profile Views</h4>
   <img src="https://profile-counter.glitch.me/dizzpy/count.svg?"  />
 </div>
 
