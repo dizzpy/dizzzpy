@@ -24,7 +24,7 @@
 
 ###
 
-<h3>Languages and Tools:</h3>
+<h3>Languages and Tools:</h3><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -74,7 +74,7 @@
 
 ###
 
-<h3>Connect with me:</h3>
+<h3>Connect with me:</h3><br>
 
 <div align="left">
   <a href="https://t.me/MrAnuwa" target="_blank">
