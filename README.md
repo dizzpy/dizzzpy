@@ -92,7 +92,7 @@
   <a href="https://instagram.com/itzme_anuja" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/21904910" target="_blank">
+  <a href="https://stackoverflow.com/users/21904910/dizzpy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCRgrO6KlRxYUJLk7l6AkaqA" target="_blank">
