@@ -110,6 +110,3 @@
 </div>
 
 ###
-
-
-![Snake animation](https://github.com/dizzpy/dizzpy/blob/output/github-contribution-grid-snake.svg)
