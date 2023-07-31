@@ -1,0 +1,16 @@
+name: Generate Snake
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: platane/snk@v3.0.0
+        with:
+          username: dizzpy
+          repo: dizzpy
+          snake_color: '#0000FF'
