@@ -98,6 +98,11 @@
   <a href="https://www.youtube.com/channel/UCRgrO6KlRxYUJLk7l6AkaqA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
+
+  <a href="https://dizzpy.medium.com/" target="_blank">
+    <img src="https://cdn2.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="35" alt="medium logo"  />
+  </a>
+  
 </div>
 
 
