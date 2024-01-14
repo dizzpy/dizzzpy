@@ -77,34 +77,18 @@
 
 ###
 
-<h3>Connect with me:</h3><br>
+<h3 align="left">Connect with me:</h3>
 
-<div align="left">
-  <a href="https://t.me/MrAnuwa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anuja-rathnayake-0305311ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/ItsMe.AnuWa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/itzme_anuja" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21904910/dizzpy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCRgrO6KlRxYUJLk7l6AkaqA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-
-  <a href="https://dizzpy.medium.com/" target="_blank">
-    <img src="https://cdn2.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" height="35" alt="medium logo"  />
-  </a>
-  
-</div>
-
+<p align="left">
+<a href="https://twitter.com/dizzzpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dizzzpy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuja-rathnayake-0305311ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuja-rathnayake-0305311ba/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21904910/dizzpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21904910/dizzpy" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/itsme.anuwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/itsme.anuwa" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/itzme_anuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/itzme_anuja" height="30" width="40" /></a>
+<a href="https://medium.com/@dizzpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dizzpy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrgro6klrxyujlk7l6akaqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrgro6klrxyujlk7l6akaqa" height="30" width="40" /></a>
+<a href="https://discord.gg/yashohara#0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashohara#0220" height="30" width="40" /></a>
+</p>
 
 
 ###
