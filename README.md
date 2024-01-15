@@ -2,6 +2,12 @@
 
 ###
 
+<p align="center">
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" height="100" width="100">
+</p>
+
+###
+
 <h2>About Me</h2>
 
 <p>Hey there! 👋 I'm <strong>Dizzpy</strong>, an undergraduate and a part-time freelance UI designer. As a passionate tech enthusiast, I love exploring new technologies and sharing my knowledge with the community. I aim to bridge the gap between software and hardware to create innovative solutions. Feel free to check out my projects and let's learn and create amazing things together!</p>
