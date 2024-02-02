@@ -72,8 +72,3 @@
   <h4>Profile Views</h4>
   <img src="https://profile-counter.glitch.me/dizzpy/count.svg?"  />
 </div>
-
-###
-<p align="center">
-<img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg">
-</p>
