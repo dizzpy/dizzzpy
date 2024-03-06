@@ -1,0 +1,15 @@
+name: Generate Snake Game
+
+on:
+  push: {}  # This triggers the workflow on every push to the repository
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3  # Use the snk action
+        with:
+          github_user_name: 'dizzpy'  # Replace with your actual GitHub username
+          outputs: |  # Define the output filename
+            dist/github-snake.svg
