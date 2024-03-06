@@ -3,9 +3,11 @@
 
 ###
 
+<!--
 <p align="center">
 <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" height="100" width="100">
 </p>
+-->
 
 ###
 
