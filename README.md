@@ -30,7 +30,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,dart,dotnet,java,mysql,arduino,flutter,tailwind,bootstrap,firebase,materialui,vscode,visualstudio,git,github,codepen,cloudflare,bash,aws,gradle,heroku,docker,selenium,npm,linux,androidstudio,notion,netlify,figma,xd,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dart,dotnet,java,mysql,arduino,flutter,tailwind,bootstrap,firebase,materialui,vscode,visualstudio,git,github,codepen,cloudflare,bash,aws,gradle,heroku,docker,selenium,npm,linux,androidstudio,notion,netlify,figma,xd,ps,ai" />
   </a>
 </p>
 
