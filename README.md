@@ -13,7 +13,7 @@
 
 <h2>About Me</h2>
 
-<p>Hey there! 👋 I'm <strong>Dizzpy</strong>, an undergraduate and a part-time freelance UI designer. As a passionate tech enthusiast, I love exploring new technologies and sharing my knowledge with the community. I aim to bridge the gap between software and hardware to create innovative solutions. Feel free to check out my projects and let's learn and create amazing things together!</p>
+<p>Hey there! 👋 I'm <a href="https://www.dizzpy.dev/"><strong>Dizzpy</strong></a>, an undergraduate and a part-time freelance UI designer. As a passionate tech enthusiast, I love exploring new technologies and sharing my knowledge with the community. I aim to bridge the gap between software and hardware to create innovative solutions. Feel free to check out my projects and let's learn and create amazing things together!</p>
 <br>
 
 ###
@@ -30,7 +30,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,dart,dotnet,java,mysql,arduino,flutter,tailwind,bootstrap,firebase,materialui,vscode,visualstudio,git,github,codepen,cloudflare,aws,heroku,npm,linux,androidstudio,notion,netlify,figma,xd,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,sass,js,react,dart,dotnet,java,mysql,arduino,flutter,tailwind,firebase,materialui,vercel,vite,notion," />
   </a>
 </p>
 
