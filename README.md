@@ -30,7 +30,7 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,sass,js,react,dart,dotnet,java,mysql,arduino,flutter,tailwind,firebase,materialui,vercel,vite,notion," />
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,sass,js,react,dart,dotnet,java,mysql,swift,arduino,flutter,tailwind,firebase,materialui,vercel,vite,notion," />
   </a>
 </p>
 
