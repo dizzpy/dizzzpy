@@ -28,11 +28,45 @@
 
 <h3>Languages and Tools:</h3>
 
-<p align="start">
+<!-- <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,html,css,sass,js,react,dart,dotnet,java,mysql,swift,arduino,flutter,tailwind,firebase,materialui,vercel,vite,notion," />
   </a>
 </p>
+ -->
+<table><tr><td valign="top" width="33%">
+
+### Languages
+
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,c,cs,java,mysql,dart,swift,arduino&perline=6" alt="Languages" />
+</div>
+</td><td valign="top" width="33%">
+
+### Frameworks 
+
+<div align="center">
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,react,nextjs,flutter,materialui,dotnet&perline=6" alt="Frameworks" />
+</div>
+</td><td valign="top" width="33%">
+
+### Tools  
+
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,firebase,git,postman,docker,vercel,notion,ai,ae,figma&perline=6" alt="Tools" />
+</div>
+</td></tr></table>  <br/> 
+
+
+
+
+
+
+
+
+
+
+
 
 ###
 <br>
