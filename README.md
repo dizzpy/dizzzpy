@@ -26,6 +26,12 @@
 
 ###
 
+<p align="center">
+<img src ="https://raw.githubusercontent.com/dizzpy/dizzpy/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+###
+
 <h3>Languages and Tools:</h3>
 
 <!-- <p align="start">
