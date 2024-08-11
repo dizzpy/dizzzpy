@@ -12,7 +12,7 @@
 - 🎓 Currently pursuing a Software Engineering degree
 - 🏋️‍♂️ Passionate about gym workouts
 - 🎨 Enjoys editing and color grading
-- 🌿 Prefers a calm and introspective lifestyle
+- 🌿 Prefers a calm lifestyle
 
 
 ## Contribution Stats
