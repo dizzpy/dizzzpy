@@ -17,18 +17,10 @@
 
 ## Contribution Stats
 
-
-<details>
-  <summary>Click to expand</summary>
-  <br>
-  
   <div align="start">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dizzpy&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dizzpy&theme=gotham&hide_border=true" />
   </div>
-
-  
-</details>
 
 
 ## Languages and Tools
@@ -36,30 +28,16 @@
 
 <details>
   <summary>Click to expand</summary>
-  <br>
   
-  <table><tr><td valign="top" width="33%">
 
 ### Languages
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,c,cs,java,mysql,dart,swift,arduino&" alt="Languages" />
 
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,c,cs,java,mysql,dart,swift,arduino&perline=5" alt="Languages" />
-</div>
-</td><td valign="top" width="33%">
+### Frameworks
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,react,nextjs,flutter,materialui,dotnet&" alt="Frameworks" />
 
-### Frameworks 
-
-<div align="center">
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,react,nextjs,flutter,materialui,dotnet&perline=5" alt="Frameworks" />
-</div>
-</td><td valign="top" width="33%">
-
-### Tools  
-
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,firebase,git,postman,docker,vercel,notion,ai,ae,figma&perline=5" alt="Tools" />
-</div>
-</td></tr></table>  <br/> 
+### Tools
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,androidstudio,firebase,git,postman,docker,vercel,notion,ai,ae,figma&" alt="Tools" />
 </details>
 
 
